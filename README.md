@@ -1,0 +1,2 @@
+# ResolvaOLabirinto
+Projeto para fins acadêmicos que tinha como finalidade a confecção de um algoritmo que utilizasse backtracking (metodologia de tentativa e erro) para levar um "cachorro" até o fim de um labirinto, ou seja, encontrasse, através de tentativa e erro, uma saída do labirinto a partir da posição em que o "cachorro" se encontra inicialmente. Vale salientar, então, que este algoritmo pode não apresentar a solução ótima do problema devido a sua metodologia de implementação, porém sempre apresentará uma solução viável.
